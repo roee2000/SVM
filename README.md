@@ -1,2 +1,2 @@
 # SVM
-ad nmataiiiii
+Real teza version control
